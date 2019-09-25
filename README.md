@@ -1,4 +1,4 @@
-# Validations In Controller Actions Lab
+`# Validations In Controller Actions Lab
 
 Time to apply these new tools!
 
@@ -12,7 +12,7 @@ For example, if someone creates a blog post with less than 100 characters of con
 - Use the validation state of a model in a response conditional in an action
 - Re-render a form with validation errors
 - Validate a create action
-- Validate an update action
+- Validate an update action`
 
 # Requirements
 
